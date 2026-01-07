@@ -9,7 +9,7 @@ This package provides utilities for:
 
 from .visual_width import VisualWidth
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 __all__ = [
     "VisualWidth",
